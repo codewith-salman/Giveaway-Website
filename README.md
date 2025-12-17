@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
 
 
@@ -40,7 +39,6 @@ Great for:
 - Countdown timer for urgency  
 - Smooth animations and hover effects  
 - Clean and modern UI design  
-- Easy to customize for different campaigns  
 
 ---
 
