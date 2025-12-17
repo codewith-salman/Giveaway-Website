@@ -3,10 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Giveaway Website Logo" width="120" />
-
-<br /><br />
 
 ## 🎁 Giveaway Website  
 A clean, engaging, and interactive **Giveaway Website UI** built using HTML, CSS, and JavaScript.  
