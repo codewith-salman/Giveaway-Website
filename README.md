@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Giveaway%20Website/assets/images/desktop.png" alt="Giveaway Website Logo" width="120"/>
+<img src="Giveaway%20Website/assets/images/logo.png" alt="Giveaway Website Logo" width="120"/>
 
 <br />
 <br />
