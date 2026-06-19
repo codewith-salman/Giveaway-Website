@@ -73,7 +73,6 @@ Ideal for:
 - Prize and giveaway details section  
 - Countdown timer for urgency  
 - Smooth animations and hover effects  
-- Clean and modern UI design  
 
 ---
 
