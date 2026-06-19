@@ -21,7 +21,6 @@
 <img src="Giveaway%20Website/assets/images/logo.png" alt="Giveaway Website Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🎁 Giveaway Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Portfolio UI projects  
 - Practice with timers, CTAs, and layout hierarchy  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -78,8 +75,6 @@ Ideal for:
 - Smooth animations and hover effects  
 - Clean and modern UI design  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -87,8 +82,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
