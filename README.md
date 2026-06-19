@@ -71,8 +71,7 @@ Ideal for:
 - Fully responsive giveaway landing page  
 - Eye-catching hero section with CTA  
 - Prize and giveaway details section  
-- Countdown timer for urgency  
-- Smooth animations and hover effects  
+- Countdown timer for urgency 
 
 ---
 
